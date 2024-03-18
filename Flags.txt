@@ -1,0 +1,16 @@
+Potential flags... when used please put "-- Done" beside it
+CSECTF{Ci!ph3r@1234}
+CSECTF{Ha#ckTheC0de567}
+CSECTF{Secu^reNet890}
+CSECTF{Cry%ptoMagic123}
+CSECTF{Bina@ryPuzzle456}
+CSECTF{Hid&denMess@ge789}
+CSECTF{Deco!deMe1234}
+CSECTF{En!cryptTh!s567}
+CSECTF{CrackTh3L0ck890}
+CSECTF{Dig!talV@ult123}
+CSECTF{Firewa#llBy!pass456}
+CSECTF{Pha#ntomPr0tocol789}
+CSECTF{StealthM0de1234}
+CSECTF{Intrusi@nAlert567}
+CSECTF{DefendTh3Data890}
