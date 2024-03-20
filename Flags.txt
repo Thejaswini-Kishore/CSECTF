@@ -1,6 +1,6 @@
 Potential flags... when used please put "-- Done" beside it
 CSECTF{Ci!ph3r@1234} - done
-CSECTF{Ha#ckTheC0de567}
+CSECTF{Ha#ckTheC0de567} -done
 CSECTF{Secu^reNet890}
 CSECTF{Cry%ptoMagic123}
 CSECTF{Bina@ryPuzzle456}
