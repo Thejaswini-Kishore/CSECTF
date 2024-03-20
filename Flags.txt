@@ -7,7 +7,7 @@ CSECTF{Bina@ryPuzzle456}
 CSECTF{Hid&denMess@ge789}
 CSECTF{Deco!deMe1234}
 CSECTF{En!cryptTh!s567}
-CSECTF{CrackTh3L0ck890}
+CSECTF{CrackTh3L0ck890} -done
 CSECTF{Dig!talV@ult123}
 CSECTF{Firewa#llBy!pass456}
 CSECTF{Pha#ntomPr0tocol789}
